@@ -19,7 +19,6 @@ These alterations aim to adapt the algorithm for specific use cases within the p
 Acknowledgments
 This project is the result of extensive research and experimentation during the first and second years of my PHD at the University of New Mexico under suppervision of Dr. Fernando Moreu. We appreciate the contributions and insights from my other colleagues specially John-Wesley  (jack) Hanson.
 
-This README is intended to provide users and contributors with a clear understanding of the project's current state, its algorithmic foundation, and future development directions.
 
 
 
