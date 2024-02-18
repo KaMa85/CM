@@ -1,10 +1,10 @@
 Unity Project: Experimental Edge Detection and Measurement
 
 Overview
-This Unity project incorporates an experimental edge detection and measurement algorithm designed for defect quantification. It utilizes Canny parameters as a foundational basis, with modifications tailored to specific experimental needs. This README outlines the current state of the project, its capabilities, and areas pending further development.
+This Unity project incorporates an experimental edge detection and measurement algorithm designed for defect quantification. It utilizes Canny parameters as a foundational basis, with modifications tailored to specific experimental needs. The following video and the three mp4 files in this repository (Media1, Media2 and Media3) shows the application of the project in a Microsoft HoloLens headset.
 
-Current Project Status
-The version of the Unity project provided here represents an interim development stage. Key features and enhancements are planned for future releases to augment its functionality and accuracy. It's important for users to note the following aspects of the current release:
+https://github.com/KaMa85/CM/assets/82784239/e7f72931-05df-4e24-a158-c927e17aaa96
+This README outlines the current state of the project, its capabilities, and areas pending further development. 
 
 Incomplete Features:
 The project lacks perspective correction capabilities, which is required for analysis of the angled and distorted images.
@@ -20,3 +20,6 @@ Acknowledgments
 This project is the result of extensive research and experimentation during the first and second years of my PHD at the University of New Mexico under suppervision of Dr. Fernando Moreu. We appreciate the contributions and insights from my other colleagues specially John-Wesley  (jack) Hanson.
 
 This README is intended to provide users and contributors with a clear understanding of the project's current state, its algorithmic foundation, and future development directions.
+
+
+
