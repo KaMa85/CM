@@ -21,4 +21,4 @@ This implementation serves as a base prototype for real-time, nonstationary imag
 
 Demonstration
 The functionality of the current application is introduced in the video below:
-https://github.com/KaMa85/CM/blob/main/Media2.mp4
+https://github.com/KaMa85/CM/blob/main/Untitled%20video.mp4
